@@ -1,4 +1,4 @@
-# CLI: PRIMITIVE DB
+# CLI: Telegram Console Sender
 
 Project showcases CLI application where user can send messages or photos to telegram bot.
 
