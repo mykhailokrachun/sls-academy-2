@@ -1,4 +1,4 @@
-# CLI: Telegram Console Sender
+# CLI: Telegram Bot Weather Forecast
 
 Project showcases Telegram bot that will give the user the weather forecast for a particular city.
 

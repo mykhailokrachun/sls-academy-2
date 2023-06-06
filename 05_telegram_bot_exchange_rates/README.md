@@ -1,4 +1,4 @@
-# CLI: Telegram Console Sender
+# CLI: Telegram Bot Exchange Rates
 
 Project showcases Telegram bot that will give the user the exchange rate using PrivatBank and MonoBank APIs.
 
