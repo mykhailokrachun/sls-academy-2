@@ -1,6 +1,6 @@
 # JSON Sorting
 
-Project showcases algorithm to rework JSON files from API endpoint according to requirements of the task.
+Project showcases algorithm to rework JSON files from API endpoints according to requirements of the task.
 
 #### Setup
 
